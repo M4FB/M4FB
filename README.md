@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# Hi there!
 
 I'm a passionate Computer Engineering student specializing in cybersecurity. My academic background has equipped me with solid foundations in programming languages like **Python**, **Java**, and **C++**. I thrive on challenges that push my technical boundaries and am always eager to learn something new.
 
