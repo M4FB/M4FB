@@ -1,32 +1,127 @@
-# Hi there!
+```
+▓█████▄  ██▀███  ▓█████▄▄▄█████▓ ██░ ██ ██████ ▓█████ ▄████▄
+▒██▀ ██▌▓██ ▒ ██▒▓█   ▀▓  ██▒ ▓▒▓██░ ██▒██    ▒ ▓█   ▀▒██▀ ▀█
+░██   █▌▓██ ░▄█ ▒▒███  ▒ ▓██░ ▒░▒██▀▀██░ ▓██▄   ▒███  ▒▓█    ▄
+░▓█▄   ▌▒██▀▀█▄  ▒▓█  ▄░ ▓██▓ ░ ░▓█ ░██  ▒   ██▒▓█  ▄ ▒▓▓▄ ▄██▒
+░▒████▓ ░██▓ ▒██▒░▒████▒ ▒██▒ ░ ░▓█▒░██▓▒██████▒▒░▒████▒▒ ▓███▀ ░
+ ▒▒▓  ▒ ░ ▒▓ ░▒▓░░░ ▒░ ░ ▒ ░░    ▒ ░░▒░▒▒ ▒▓▒ ▒ ░░░ ▒░ ░░ ░▒ ▒  ░
+```
 
-I'm a passionate Computer Engineering student specializing in cybersecurity. My academic background has equipped me with solid foundations in programming languages like **Python**, **Java**, and **C++**. I thrive on challenges that push my technical boundaries and am always eager to learn something new.
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  ██████╗ ███████╗███████╗███████╗███╗   ██╗███████╗███████╗        │
+│  ██╔══██╗██╔════╝██╔════╝██╔════╝████╗  ██║██╔════╝██╔════╝        │
+│  ██║  ██║█████╗  █████╗  █████╗  ██╔██╗ ██║███████╗█████╗          │
+│  ██║  ██║██╔══╝  ██╔══╝  ██╔══╝  ██║╚██╗██║╚════██║██╔══╝          │
+│  ██████╔╝███████╗██║     ███████╗██║ ╚████║███████║███████╗        │
+│  ╚═════╝ ╚══════╝╚═╝     ╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝        │
+│                                                                     │
+│            [ MARCELO AVENDANO // @m4fb // m4fb0x ]                 │
+│         ░░░ Computer Systems Engineering | Cybersecurity ░░░       │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+```
+╔════════════════════════════[ ABOUT ]═══════════════════════════════╗
+║                                                                    ║
+║  > whoami                                                          ║
+║                                                                    ║
+║    Computer Engineering student. Primary focus: offensive          ║
+║    security. I spend most of my time in labs, CTF competitions,    ║
+║    and network analysis — building real skills through             ║
+║    hands-on practice rather than theory alone.                     ║
+║                                                                    ║
+║  > status                                                          ║
+║                                                                    ║
+║    [■■■■■■■■░░] Active on Hack The Box                             ║
+║    [■■■■■■░░░░] Competing in CTFs                                  ║
+║    [■■■■■■■■■░] Breaking things to understand them                 ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 🚀 About Me
+```
+╔══════════════════════[ CERTIFICATIONS ]════════════════════════════╗
+║                                                                    ║
+║   ▄████████████████████████████████████████████████████████████▄  ║
+║   █                                                              █  ║
+║   █   [+] CPTS — Certified Penetration Testing Specialist        █  ║
+║   █       Hack The Box  |  Industry-level certification          █  ║
+║   █                                                              █  ║
+║   █       Covers: Recon · Exploitation · Post-Exploitation       █  ║
+║   █                Pivoting · AD Attacks · Reporting             █  ║
+║   █                                                              █  ║
+║   ▀████████████████████████████████████████████████████████████▀  ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
-- 🎓 **Student:** Computer Systems Engineering (Ingeniería de Sistemas)
-- 🛡️ **Focus:** Cybersecurity
-- 💻 **Languages:** Python, Java, C++
-- 🕹️ **Hobbies:**  
-  - Competing in Capture The Flag (CTF) events  
-  - [Hack The Box](https://www.hackthebox.com/)
-  - Exploring new cybersecurity tools and techniques
+---
+
+```
+╔═══════════════════════════[ STACK ]════════════════════════════════╗
+║                                                                    ║
+║  LANGUAGES  ···················································     ║
+║  ┌──────────┬──────────┬──────────┐                               ║
+║  │  Python  │   C++    │   Java   │                               ║
+║  └──────────┴──────────┴──────────┘                               ║
+║                                                                    ║
+║  DOMAINS  ·····················································     ║
+║  ┌─────────────────────────────────────────────────────────┐      ║
+║  │  Offensive Security   ████████████████████████░░░░░░░░  │      ║
+║  │  Network Analysis     ███████████████████░░░░░░░░░░░░░  │      ║
+║  │  Cryptography         ████████████████░░░░░░░░░░░░░░░░  │      ║
+║  │  TUI Development      ██████████████████████░░░░░░░░░░  │      ║
+║  └─────────────────────────────────────────────────────────┘      ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 🌱 What I'm Working On
-
-I'm currently honing my skills in offensive and defensive security, network analysis, and cryptography. While I don't have a favorite project yet, I'm actively participating in CTFs and practical labs to solidify my knowledge.
+```
+╔══════════════════════[ CURRENT WORK ]══════════════════════════════╗
+║                                                                    ║
+║  > cat focus.txt                                                   ║
+║                                                                    ║
+║    Lately I've been gravitating toward Python-based TUI            ║
+║    development — building clean, keyboard-driven terminal          ║
+║    interfaces for tools I use in labs and CTFs.                    ║
+║                                                                    ║
+║    It's a natural extension of the security work:                  ║
+║    if you're running a tool constantly, it should feel             ║
+║    good to use.                                                    ║
+║                                                                    ║
+║    Cybersecurity remains the core.                                 ║
+║    The TUI work is a means to that end.                            ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## 📫 Let's Connect
+```
+╔══════════════════════════[ CONTACT ]═══════════════════════════════╗
+║                                                                    ║
+║   ░▒▓  LinkedIn  ▓▒░  →  [ see below ]                            ║
+║   ░▒▓  HTB       ▓▒░  →  [ see below ]                            ║
+║   ░▒▓  Mail      ▓▒░  →  [ see below ]                            ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
-Feel free to connect for collaboration, learning, or just to geek out!
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/marcelo-avendano/) • [Hack The Box](https://app.hackthebox.com/users/2091283) • [Email](mailto:m4fb0x@proton.me)
+`░▒▓` &nbsp; [LinkedIn](https://www.linkedin.com/in/marcelo-avendano/) &nbsp; `▓▒░` &nbsp;&nbsp;·&nbsp;&nbsp; `░▒▓` &nbsp; [Hack The Box](https://app.hackthebox.com/users/2091283) &nbsp; `▓▒░` &nbsp;&nbsp;·&nbsp;&nbsp; `░▒▓` &nbsp; [m4fb0x@proton.me](mailto:m4fb0x@proton.me) &nbsp; `▓▒░`
 
----
-LoL
+</div>
+
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░  "The quieter you become, the more you are able to hear."        ░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
